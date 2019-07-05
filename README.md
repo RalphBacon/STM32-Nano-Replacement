@@ -34,6 +34,8 @@ https://www.banggood.com/3_3V-5V-XTW-ST-LINK-V2-STM8-STM32-Simulator-Programmer-
 ST Link V2 Driver webpage  
 https://www.st.com/en/development-tools/stsw-link009.html
 
+Long Handle 2.54mm Jumper Link With Open Top Test Point - 5 Colours
+https://www.ebay.co.uk/itm/Long-Handle-2-54mm-Jumper-Link-With-Open-Top-Test-Point-5-Colours/232512896118?ssPageName=STRK%3AMEBIDX%3AIT&var=531837595431&_trksid=p2057872.m2749.l2649
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
