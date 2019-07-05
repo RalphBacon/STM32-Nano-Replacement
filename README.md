@@ -1,7 +1,10 @@
 # STM32 Nano Replacement
 This is how your Arduino Nano should be! A quick look at the STM32F103C8T6 ARM Cortex M3 aka Blue Pill.
 
-$2 for PCB Prototype(Any Color): https://jlcpcb.com/
+## $2 for PCB Prototype(Any Color): https://jlcpcb.com/
+
+## See https://www.youtube.com/ralphbacon video #152
+(Direct link to video: https://youtu.be/vzDsSdtKQXA)
 
 Add this Board Manager entry into your Arduino Preferences (additional boards URL) to add the STM32 boards to the Arduino IDE  
 http://dan.drown.org/stm32duino/package_STM32duino_index.json
@@ -10,7 +13,7 @@ So you're up for a boost to your Arduino UNO or Nano processor? The STM32 acts j
 
 I'll be exploring all these features in more depths in future videos but for now this is a brief overview and comparison to µControllers we've already covered in previous videos. Exciting Times!
 
-*** LINKS     LINKS    LINKS    LINKS    LINKS
+### LINKS     LINKS    LINKS    LINKS    LINKS
 
 Here are some links that I found very easily - do search around for the best price. China is keenest in price (but read the reviews of the products to check the quality), Amazon also sometimes has hobbyist priced stuff and eBay is always a good place to search.  
 
