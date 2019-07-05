@@ -17,7 +17,7 @@ I'll be exploring all these features in more depths in future videos but for now
 
 Here are some links that I found very easily - do search around for the best price. China is keenest in price (but read the reviews of the products to check the quality), Amazon also sometimes has hobbyist priced stuff and eBay is always a good place to search.  
 
-* Some of these links are afilliate links that may help my channel. *   
+#### Some of these links are afilliate links that may help my channel.  
 
 STM32 Blue Pill (a reference to The Matrix film)  
 https://www.banggood.com/STM32F103C8T6-Small-System-Board-Microcontroller-STM32-ARM-Core-Board-For-Arduino-p-1058299.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
